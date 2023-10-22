@@ -1,6 +1,6 @@
 # List_products_dio
 get products from dummy data with use libraries
-- convex_bottom_bar to NavBar
+- convex_bottom_bar to build NavBar
 - dio to get data from api
 - flutter_rating_bar to build rating
 # Screens
